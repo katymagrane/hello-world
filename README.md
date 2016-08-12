@@ -3,11 +3,11 @@
 
 I joined [Alliants](http://www.alliants.com/) after ~~more than~~ *10 years* as an **in-house __Product Owner/Manager__** for various companies, spanning the following industries:
 
-⋅⋅⋅⋅* Publishing
-⋅⋅⋅⋅* Online payments
-⋅⋅⋅⋅* Ecommerce
-⋅⋅⋅⋅* Self-service account management
-⋅⋅⋅⋅* Software distribution and online recruitment
+* Publishing
+* Online payments
+* Ecommerce
+* Self-service account management
+* Software distribution and online recruitment
 
 
 ![Katy Magrane](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/039/018/1b7cc05.jpg "Katy Magrane")
